@@ -1,0 +1,35 @@
+.navbar  {
+    margin-bottom: 20px;
+
+    height: 80px;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .jumbotron{
+    height : 550px
+  }
+.display-4 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-bottom: 40px;
+}
+
+.my-4 {
+    margin-bottom: 7rem ;
+    margin-top: 2rem;
+}
+
+.picservice {
+
+    /* position: absolute; */
+    /* object-fit: cover; */
+    height: 400px;
+    width: 100%;
+    margin-top: -20px;
+    margin-bottom:20px;
+}
+.card-img-top{
+  height: 320px;
+  width: 100%;
+}
